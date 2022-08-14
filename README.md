@@ -1,4 +1,4 @@
-# BERT multilingual model
+# Sentiment Analysis reviews and Reliable reviews
 
 Data : Web crawling at Musinsa's review, star_rate
 
