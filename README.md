@@ -62,7 +62,7 @@ RI, RR, RD 방식으로 각 별점당 4만개씩 Data Augmentation을 진행했�
 
 
 
-참고 : 
+# 참고 
 
 https://github.com/namwootree
 
