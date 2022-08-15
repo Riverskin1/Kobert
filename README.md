@@ -1,10 +1,10 @@
-# Sentiment Analysis reviews and Reliable reviews
+# Sentiment Analysis reviews and Reliable star_rates
 
 Data : Web crawling at Musinsa's review, star_rate
 
-Model : BERT multilingual model using Hugging Face API, **추가작성**--
+Model : BERT multilingual model with Hugging Face API, KoBART model with github(SKT-AI)
 
-Purpose : Sentiment Analysis review, **추가작성**--
+Purpose : Sentiment Analysis review, Make reliable Star_rate model
 
 
 
@@ -16,7 +16,7 @@ Purpose : Sentiment Analysis review, **추가작성**--
 
 그러나 모든 리뷰에서 긍정리뷰+긍정별점 , 부정리뷰+부정별점이 매칭되지는 않습니다.
 
-1차적으로 기본적인 긍부정을 표현하는 bert모델을 이용해 감성분석을 시도하고
+1차적으로 기본적인 긍부정을 표현하는 bert모델을 이용해 감성분석을 시도해보고
 
 2차적으로 보다 신뢰성 있는 리뷰 및 별점을 얻기 위해 kobert모델을 이용해 학습하여
 
@@ -56,7 +56,7 @@ RI, RR, RD 방식으로 각 별점당 4만개씩 Data Augmentation을 진행했�
 
 2차 실점별점 평가 모델은 각 라벨당 4만개씩 총 16만개의 데이터셋으로 학습을 진행했습니다.
 
-**추가작성**--
+**크롤링 자료 필요**
 
 
 
