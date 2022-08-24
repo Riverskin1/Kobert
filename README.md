@@ -6,7 +6,7 @@ Model : BERT multilingual model with Hugging Face API, KoBART model with github(
 
 Purpose : Sentiment Analysis review, Make reliable Star_rate model
 
-
+<br><br>
 
 # 개요
 
@@ -26,6 +26,7 @@ Purpose : Sentiment Analysis review, Make reliable Star_rate model
 고객이 작성한 리뷰에 따라 자동적으로 문맥에 맞는 실질적인 별점 부여 시스템 구축
 </pre>
 
+<br><br>
 
 # 수집 및 전처리
 
@@ -49,6 +50,7 @@ Musinsa 2022년도 1~6월 상품 페이지에서 약 35만개의 평점과 별�
 
 RI, RR, RD 방식으로 각 별점당 4만개씩 Data Augmentation을 진행했습니다.
 
+<br><br>
 
 # 모델 학습
 
@@ -59,7 +61,7 @@ RI, RR, RD 방식으로 각 별점당 4만개씩 Data Augmentation을 진행했�
 **크롤링 자료 필요**
 
 
-
+<br><br>
 
 
 # 참고 자료
