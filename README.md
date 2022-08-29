@@ -8,6 +8,8 @@ Purpose : Sentiment Analysis review, Make reliable Star_rate model
 
 <br><br>
 
+
+
 # 개요
 
 인터넷에서 상품을 구매할 때 소비자의 큰 결정요인 중 하나는 실제로 구매한 고객들의 리뷰입니다.
