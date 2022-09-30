@@ -4,7 +4,7 @@ Data : Web crawling at Musinsa's review, star_rate
 
 Model : BERT multilingual model with Hugging Face API, KoBART model with github(SKT-AI)
 
-Purpose : Sentiment Analysis review, Make reliable Star_rate model
+Purpose : Sentiment Analysis review, Make reliable Star_rate model.
 
 <br><br>
 
