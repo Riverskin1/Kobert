@@ -25,7 +25,7 @@ Purpose : Sentiment Analysis review, Make reliable Star_rate model.
 임의의 리뷰를 작성했을때 자동적으로 그에 맞는 **실질별점**을 만들어보고자 프로젝트를 진행했습니다.
 
 <pre>
-고객이 작성한 리뷰에 따라 자동적으로 문맥에 맞는 실질적인 별점 부여 시스템 구축
+고객이 작성한 리뷰에 따라 자동적으로 문맥에 맞는 실질적인 별점 부여 시스템 구축.
 </pre>
 
 <br><br>
