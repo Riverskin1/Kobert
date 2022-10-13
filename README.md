@@ -1,6 +1,6 @@
 # Sentiment Analysis reviews and Reliable star_rates
 
-Data : Web crawling at Musinsa's review, star_rate.
+Data : Web crawling at Musinsa's review, star_rate..
 
 Model : BERT multilingual model with Hugging Face API, KoBART model with github(SKT-AI)
 
